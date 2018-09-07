@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/car-1.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/car-2.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/car-3.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/car-4.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/car-5.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/car-6.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/car-7.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/car-8.jpg",
+      "clicked": false
+    }
+  ]
